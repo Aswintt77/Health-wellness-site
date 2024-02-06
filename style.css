@@ -1,0 +1,471 @@
+* {
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.collapse {
+    margin-left: 400px;
+    justify-content: space-between;
+
+}
+
+.container {
+    margin-left: 50px;
+}
+
+.info {
+    text-decoration: none;
+    font-family: 'Karla', sans-serif;
+    padding-top: 100px;
+    display: flex;
+    margin-left: 100px;
+}
+
+.login {
+    text-decoration: none;
+    text-align: right;
+    padding-right: 150px;
+    background-color: rgb(65, 70, 120);
+
+}
+
+.login img {
+    border-radius: 60%;
+}
+
+.liner {
+    background-color: white;
+    height: 1px;
+    width: 90%;
+}
+
+.info {
+    margin-top: 50px;
+}
+
+.navbar {
+    
+    background-color: rgb(65, 70, 120);
+    
+    
+    
+}
+
+.togn {
+    text-decoration: none;
+}
+
+#infos {
+    margin-left: 100px;
+    text-align: left;
+}
+
+#abund {
+    font-weight: bold;
+    font-style: italic;
+}
+.home{
+    background: url(images/Screenshot\ 2023-09-27\ 221006.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+    background-attachment: fixed;
+}
+.home-content h1{
+    padding-left: 400px;
+    background-color: transparent;
+    font-size: 85px;
+}
+#imgge{
+    margin-left: 70px;
+}
+.home-content h2{
+    padding-left: 400px;
+    
+
+}
+.wheel{
+    background-color: rgb(65, 70, 120);
+    color: white;
+
+}
+.wheel h1{
+    text-align: center;
+    padding-top: 100px;
+}
+.wheel h4{
+    text-align: center;
+}
+.wheel button{
+margin-left: 670px;
+
+}
+.wheel img{
+    margin-left:250px;
+    margin-bottom: 100px;
+}
+
+.fstpic{
+    border-radius: 50%;
+}
+.fstpic img{
+    border-radius: 50%;
+    height: 300px;
+}
+
+.wellne h1{
+    margin-top: 100px;
+    font-size: 90px;
+}
+.wellne h2{
+    font-size: 60px;
+}
+.overlay1{
+    position: absolute;
+    right:20%;
+    top:4750px
+
+}
+.overlay2{
+    position: absolute;
+    right:10%;
+    top:5350px
+
+}
+.foot h1{
+    margin-left: 100px;
+    text-align: left;
+}
+.foot h3{
+    margin-left: 100px;
+    text-align: left;
+}
+.dodo img{
+    margin-left: 10px;
+    padding-right: 200px;
+}
+.email{
+    display: flex;
+}
+.fotor{
+    margin-right: 500px;
+    bottom:70%;
+    padding-bottom: 1000px;
+}
+.container{
+    left: 40%;
+}
+.fotor{
+    margin-left: 200px;
+    margin-right: 500px;
+padding-bottom: 500px;
+margin-top: 180px;
+}
+#inputmessage{ height: 100px;}
+.labal{
+    margin-right:700px;
+}
+.formm{
+    margin-right: 500px;
+}
+.btnn{
+    margin-left: 630px;
+}
+.feter{ display:flex ;
+background-color: rgb(65, 70, 120); 
+color: white;
+justify-content: space-evenly;
+padding-top: 200px;
+padding-bottom: 200px;
+
+}
+.foot{
+    display: flex;
+    height: 900px;
+}
+.yyar{
+    background-color: white;
+    color: black;
+}
+.footer img{
+    border-radius: 50%;
+}
+.bottem img{
+    border-radius: 50%;
+}
+.diagram{
+    border-radius: 20px;
+}
+.footer{
+    margin-top: 100px;
+}
+.lastone{
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+
+    * {
+        font-family: 'Playfair Display', serif;
+        margin: 0;
+        padding: 0;
+        
+    }
+
+    .collapse {
+       
+        justify-content: space-between;
+    
+    }
+    
+    .container {
+        margin-left: 0px;
+    }
+    
+    .info {
+        text-decoration: none;
+        font-family: 'Karla', sans-serif;
+        padding-top: 0px;
+        display: flex;
+        margin-left: 0px;
+    }
+    .pon{
+        width: 20px;
+    }
+    .login {
+        font-size: 10px;
+        text-decoration: none;
+        text-align: right;
+        padding-right: 10px;
+        background-color: rgb(65, 70, 120);
+    
+    }
+    
+    .login img {
+        border-radius: 60%;
+    }
+    
+    .liner {
+        background-color: white;
+        height: 1px;
+        width: 90%;
+    }
+    
+    .info {
+        margin-top: 10px;
+    }
+    
+    .navbar {
+        
+        background-color: rgb(65, 70, 120);
+        
+        
+        
+    }
+    
+    .togn {
+        text-decoration: none;
+    }
+    
+    #infos {
+        text-align: right;
+        font-size: 10px;
+    }
+    .tex{
+        text-align: center;
+        padding-left: 50px;
+    }
+    #abund {
+        padding-left: 90px;
+       
+       
+    }
+    
+    .navbarNavDropdown{
+      height: 10px;
+    }
+    .home{
+
+        background: url(images/Screenshot\ 2023-09-27\ 221006.png) no-repeat;
+        background-size:cover;
+        background-position: center;
+    
+        display: flex;
+        
+        background-attachment: fixed;
+    }
+    .home-content h1{
+        padding-left: 60px;
+        background-color: transparent;
+        font-size: 30px;
+    }
+    #imgge{
+       align-items: center;
+    }
+    .home-content h2{
+    
+        font-size: 20px;
+        
+        
+    }
+  
+    #diagram{
+        width:400px;
+        height: 50%;
+        margin-right: 200px;
+  
+      
+            
+    }
+
+    #brk{
+        font-size: 20px;
+        
+        
+  }
+    .wheel{
+        background-color: rgb(65, 70, 120);
+        color: white;
+        
+    
+    }
+    .wheel h1{
+        text-align: center;
+        padding-top: 100px;
+        font-size: 20px;
+    }
+    .wheel h4{
+        text-align: center;
+        font-size: 10px;
+    }
+    .wheel button{
+    margin-left: 670px;
+    
+    }
+    .wheel img{
+        margin-left:250px;
+        margin-bottom: 100px;
+    }
+    
+    .fstpic{
+        border-radius: 50%;
+    }
+    .fstpic img{
+        border-radius: 50%;
+        height: 300px;
+    }
+    
+    .wellne h1{
+        margin-top: 100px;
+        font-size: 20px;
+    }
+    .gtt{
+        height:2px;
+        width: 130px;
+        padding-right: 10px;
+    
+
+    }
+    .wellne h2{
+        font-size: 16px;
+    }
+    .overlay1{
+        position: absolute;
+        right:20%;
+        top:4750px
+    
+    }
+    .overlay2{
+        position: absolute;
+        right:10%;
+        top:5350px
+    
+    }
+    .foot h1{
+        margin-left: 50px;
+        text-align: left;
+    }
+    .foot h3{
+        margin-left: 100px;
+        text-align: left;
+    }
+    .dodo img{
+        margin-left: 10px;
+        padding-right: 200px;
+    }
+    .email{
+        display: flex;
+    }
+    .fotor{
+        margin-right: 500px;
+        bottom:70%;
+        padding-bottom: 1000px;
+    }
+    .container{
+        left: 40%;
+    }
+    .fotor{
+        margin-left: 200px;
+        margin-right: 500px;
+    padding-bottom: 500px;
+    margin-top: 180px;
+    }
+    #inputmessage{ height: 100px;}
+    .labal{
+        margin-right:700px;
+    }
+    .formm{
+        margin-right: 500px;
+    }
+    .btnn{
+        margin-left: 630px;
+    }
+    .feter{ display:flex ;
+    background-color: rgb(65, 70, 120); 
+    color: white;
+    justify-content: space-evenly;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    
+    }
+    .foot{
+        display: flex;
+        height: 500px;
+    
+    }
+    .yyar{
+        background-color: white;
+        color: black;
+    }
+    .footer img{
+        border-radius: 50%;
+    }
+    .footer h3{
+        font-size: 10px;
+      
+    }
+    .bottem img{
+        border-radius: 50%;
+    }
+    .diagram{
+        border-radius: 20px;
+    }
+    .footer{
+        margin-top: 100px;
+    }
+    .lastone{
+        text-align: center;
+    }
+    .col-6 {width: 20%;}
+}
+.footer h1{
+    font-size: 16px;
+    padding-right: 100px;
+}
